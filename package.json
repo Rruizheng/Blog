@@ -1,0 +1,19 @@
+{
+  "name": "Blog",
+  "version": "0.0.1",
+  "description": "my blog",
+  "main": "index.js",
+  "authors": {
+    "name": "Rruizheng",
+    "email": "229658140@qq.com"
+  },
+  "repository": "no/Blog",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
